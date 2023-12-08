@@ -1,0 +1,11 @@
+{
+  "name": "emotion-tsc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Mitchell Hentges <mhentges@spotify.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@emotion/serialize": "^1.1.2",
+    "typescript": "^5.3.3"
+  }
+}
